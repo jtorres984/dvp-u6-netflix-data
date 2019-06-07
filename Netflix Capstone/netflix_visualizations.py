@@ -304,8 +304,8 @@ plt.show()
 # In[ ]:
 
 
-#Revenue is highest in Q1, though it dips in Q2, it increases each quarter after that.
-#Earnings follow a similar trend, with Q1 being the greatest, while taking a drip in Q2 and increasing in each quater after.
+#Revenue is highest in Q1 2018. Revenue trended in the positive direction in 2017 to Q12018
+#Earnings follow a similar trend, with Q12018 being the greatest.
 #Over the course of 2017, 2 to 8% of the revenue constitutes earnings.
 
 
